@@ -1,2 +1,1 @@
-I am heavy weapons guy \n
-And this is my weapon
+I am heavy weapons guy.. and this is my weapon.
